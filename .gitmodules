@@ -1,0 +1,6 @@
+[submodule "KUnity-Test-Runner-Module"]
+	path = KUnity-Test-Runner-Module
+	url = ../KUnity-Test-Runner-Module.git
+[submodule "KUnity-Core"]
+	path = KUnity-Core
+	url = ../KUnity-Core.git
